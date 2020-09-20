@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "¾È³çÇÏ¼¼¿ä";
+	cout << "Hello";
+	// add from GitHub
 }
